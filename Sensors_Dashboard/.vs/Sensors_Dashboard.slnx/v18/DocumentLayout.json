@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B02DD24-3D7E-4157-9E4A-6345C76BA9E2}|Sensors_Dashboard\\Sensors_Dashboard.csproj|C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\sensors_dashboard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B02DD24-3D7E-4157-9E4A-6345C76BA9E2}|Sensors_Dashboard\\Sensors_Dashboard.csproj|solutionrelative:sensors_dashboard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B02DD24-3D7E-4157-9E4A-6345C76BA9E2}|Sensors_Dashboard\\Sensors_Dashboard.csproj|c:\\users\\hp\\documents\\r\u00E9seaux locaux\\sensors_dashboard\\sensors_dashboard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B02DD24-3D7E-4157-9E4A-6345C76BA9E2}|Sensors_Dashboard\\Sensors_Dashboard.csproj|solutionrelative:sensors_dashboard\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B02DD24-3D7E-4157-9E4A-6345C76BA9E2}|Sensors_Dashboard\\Sensors_Dashboard.csproj|C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\sensors_dashboard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B02DD24-3D7E-4157-9E4A-6345C76BA9E2}|Sensors_Dashboard\\Sensors_Dashboard.csproj|solutionrelative:sensors_dashboard\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\Sensors_Dashboard\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Sensors_Dashboard\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\Sensors_Dashboard\\Form1.Designer.cs",
+              "RelativeToolTip": "Sensors_Dashboard\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:02:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\Sensors_Dashboard\\Form1.cs",
+              "RelativeDocumentMoniker": "Sensors_Dashboard\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\Sensors_Dashboard\\Form1.cs",
+              "RelativeToolTip": "Sensors_Dashboard\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:52:30.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\Sensors_Dashboard\\Form1.cs",
+              "RelativeDocumentMoniker": "Sensors_Dashboard\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\R\u00E9seaux locaux\\Sensors_Dashboard\\Sensors_Dashboard\\Form1.cs [Design]",
+              "RelativeToolTip": "Sensors_Dashboard\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:49:58.753Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
