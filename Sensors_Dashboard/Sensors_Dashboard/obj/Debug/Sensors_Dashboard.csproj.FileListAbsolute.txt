@@ -30,3 +30,39 @@ C:\Users\hp\Documents\Réseaux locaux\Sensors_Dashboard\Sensors_Dashboard\bin\De
 C:\Users\hp\Documents\Réseaux locaux\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Text.Encodings.Web.xml
 C:\Users\hp\Documents\Réseaux locaux\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Text.Json.xml
 C:\Users\hp\Documents\Réseaux locaux\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\Sensors_Dashboard.exe.config
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\Sensors_Dashboard.exe
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\Sensors_Dashboard.pdb
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\itextsharp.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\MQTTnet.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\MQTTnet.Extensions.ManagedClient.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Buffers.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Memory.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Text.Json.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\itextsharp.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\MQTTnet.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\MQTTnet.Extensions.ManagedClient.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Buffers.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Memory.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Text.Json.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_Dashboard.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_Dashboard.Properties.Resources.resources
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_Dashboard.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_.002DC4CE.Up2Date
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_Dashboard.exe
+C:\Users\hp\Documents\Environmental_Dashboard_STM32L475\Sensors_Dashboard\Sensors_Dashboard\obj\Debug\Sensors_Dashboard.pdb
