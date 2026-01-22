@@ -378,7 +378,6 @@ This project provided hands-on experience with:
 ## 🔮 Future Improvements
 
 - [ ] **Alert system**: Email/SMS notifications when thresholds are exceeded
-- [ ] **Data export**: PDF reports and Excel export functionality
 - [ ] **User authentication**: Secure login system with role-based access
 - [ ] **Mobile app**: React Native or Flutter dashboard
 - [ ] **Dynamic configuration**: Edit settings without recompilation
